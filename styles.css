@@ -1,0 +1,31 @@
+body {
+ text-align:center;   
+ font-family: 'Indie Flower', cursive;
+}
+
+img {
+ height:300px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+
+input{
+    width:200px;
+    height:15px;
+}
+
+h1{
+    border:5px solid black;
+    border-radius:25px;
+}
+
+body {
+    background-color:green;
+}
+
+h1, input, button {
+    color:red;
+    text-align:center;
+}             
